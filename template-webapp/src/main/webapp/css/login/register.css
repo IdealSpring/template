@@ -1,0 +1,37 @@
+
+.register-title {
+    font-family: '微软雅黑 Light';
+    font-size: 24px;
+    color: rgb(38,38,38);
+}
+.register-subtitle {
+    font-family: '微软雅黑';
+    font-size: 15px;
+    color: gray;
+}
+.text-leftdown {
+    position: relative;
+    top: 8px;
+}
+.status1 {
+    display: block;
+}
+.status2 {
+    display: none;
+}
+.status3 {
+    display: none;
+}
+.status4 {
+    display: none;
+}
+.btn-color {
+    background: rgb(204, 204, 204);
+    border-color: rgb(204, 204, 204);
+    color: black;
+}
+.btn-color:hover {
+    background: rgb(178, 178, 178);
+    border-color: rgb(178, 178, 178);
+    color: black;
+}
